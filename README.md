@@ -178,4 +178,4 @@ collexa/
 
 ---
 
-Built with ❤️ for CGC Jhanjeri students
+Built with ❤️ for CGC University students
